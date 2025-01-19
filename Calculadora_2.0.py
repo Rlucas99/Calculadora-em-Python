@@ -1,4 +1,4 @@
-rint("--------Calculadora - v2.0---------")
+print("--------Calculadora - v2.0---------")
 
 sair = False
 
